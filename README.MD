@@ -1,6 +1,9 @@
 # README - React Meeting Demo
 
-This repository is forked from demo source at https://github.com/aws/amazon-chime-sdk-component-library-react/tree/master/demo/meeting 
+This repository is forked from demo source at https://github.com/aws/amazon-chime-sdk-component-library-react/tree/master/demo/meeting
+
+## Architecture
+https://docs.google.com/drawings/d/1gEzxrFirHfWYGGFSD-U7nDASQNGsvT8G7521SzfdA2o/edit?usp=sharing
 
 ## To run the demo app locally:
 
